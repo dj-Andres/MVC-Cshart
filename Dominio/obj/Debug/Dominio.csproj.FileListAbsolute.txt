@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\SQL_CShart\Dominio\bin\Debug\Dominio.dll
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\SQL_CShart\Dominio\bin\Debug\Dominio.pdb
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\SQL_CShart\Dominio\bin\Debug\Acceso_Datos.dll
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\SQL_CShart\Dominio\bin\Debug\Acceso_Datos.pdb
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\SQL_CShart\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\SQL_CShart\Dominio\obj\Debug\Dominio.dll
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\SQL_CShart\Dominio\obj\Debug\Dominio.pdb

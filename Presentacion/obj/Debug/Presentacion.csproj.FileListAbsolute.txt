@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\SQL_CShart\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\SQL_CShart\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\SQL_CShart\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\SQL_CShart\Presentacion\bin\Debug\Dominio.dll
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\SQL_CShart\Presentacion\bin\Debug\Acceso_Datos.dll
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\SQL_CShart\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\SQL_CShart\Presentacion\bin\Debug\Acceso_Datos.pdb
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\SQL_CShart\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\SQL_CShart\Presentacion\obj\Debug\Presentacion.Login.resources
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\SQL_CShart\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\SQL_CShart\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\SQL_CShart\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\SQL_CShart\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\SQL_CShart\Presentacion\obj\Debug\Presentacion.Menu.resources
