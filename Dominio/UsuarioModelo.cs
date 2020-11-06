@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Acceso_Datos;
-
+using ComunController.Cache;
 namespace Dominio
 {
     public class UsuarioModelo
@@ -15,6 +15,13 @@ namespace Dominio
         {
             return Usuario.Login(user,pass);  
         }
+        //public bool editarClave(int user,string pass){
+          //  if (user == cache_login.Id_usuario)
+           // {
+
+            //}
+            //return true;
+        //}
 
     }
 }

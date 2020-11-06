@@ -3,3 +3,10 @@ C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\SQL_CShart\Acceso_Datos
 C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\SQL_CShart\Acceso_Datos\obj\Debug\Acceso_Datos.csprojResolveAssemblyReference.cache
 C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\SQL_CShart\Acceso_Datos\obj\Debug\Acceso_Datos.dll
 C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\SQL_CShart\Acceso_Datos\obj\Debug\Acceso_Datos.pdb
+C:\Users\hp\Desktop\IST-JOL\SEXTO_CICLO\PUNTO_NET\seguno_parcial\SQL_CShart\Acceso_Datos\bin\Debug\Acceso_Datos.dll
+C:\Users\hp\Desktop\IST-JOL\SEXTO_CICLO\PUNTO_NET\seguno_parcial\SQL_CShart\Acceso_Datos\bin\Debug\Acceso_Datos.pdb
+C:\Users\hp\Desktop\IST-JOL\SEXTO_CICLO\PUNTO_NET\seguno_parcial\SQL_CShart\Acceso_Datos\bin\Debug\ComunController.dll
+C:\Users\hp\Desktop\IST-JOL\SEXTO_CICLO\PUNTO_NET\seguno_parcial\SQL_CShart\Acceso_Datos\bin\Debug\ComunController.pdb
+C:\Users\hp\Desktop\IST-JOL\SEXTO_CICLO\PUNTO_NET\seguno_parcial\SQL_CShart\Acceso_Datos\obj\Debug\Acceso_Datos.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\IST-JOL\SEXTO_CICLO\PUNTO_NET\seguno_parcial\SQL_CShart\Acceso_Datos\obj\Debug\Acceso_Datos.dll
+C:\Users\hp\Desktop\IST-JOL\SEXTO_CICLO\PUNTO_NET\seguno_parcial\SQL_CShart\Acceso_Datos\obj\Debug\Acceso_Datos.pdb

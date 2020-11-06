@@ -1,0 +1,5 @@
+C:\Users\hp\Desktop\IST-JOL\SEXTO_CICLO\PUNTO_NET\seguno_parcial\SQL_CShart\ComunController\bin\Debug\ComunController.dll
+C:\Users\hp\Desktop\IST-JOL\SEXTO_CICLO\PUNTO_NET\seguno_parcial\SQL_CShart\ComunController\bin\Debug\ComunController.pdb
+C:\Users\hp\Desktop\IST-JOL\SEXTO_CICLO\PUNTO_NET\seguno_parcial\SQL_CShart\ComunController\obj\Debug\ComunController.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\IST-JOL\SEXTO_CICLO\PUNTO_NET\seguno_parcial\SQL_CShart\ComunController\obj\Debug\ComunController.dll
+C:\Users\hp\Desktop\IST-JOL\SEXTO_CICLO\PUNTO_NET\seguno_parcial\SQL_CShart\ComunController\obj\Debug\ComunController.pdb

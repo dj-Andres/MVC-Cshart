@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Dominio;
+using ComunController.Cache;
 
 namespace Presentacion
 {
@@ -42,6 +43,7 @@ namespace Presentacion
 
                 if(loginValido==true){
                     Menu principal = new Menu();
+                    MessageBox.Show("Bienvenido" + cache_login.Nombre + "," + cache_login.Apellido);
                     principal.FormClosed += cerrar_session;
                     principal.Show();
                     this.Hide();
