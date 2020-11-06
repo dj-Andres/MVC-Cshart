@@ -22,6 +22,16 @@ namespace Dominio
             //}
             //return true;
         //}
-
+        public void PrivilegiosUsuarios()
+        {
+            if (cache_login.Cargo == Cargos.admin)
+            {
+                //code
+            }
+            if (cache_login.Cargo == Cargos.secretaria || cache_login.Cargo == Cargos.cagero)
+            {
+                //code
+            }
+        }
     }
 }

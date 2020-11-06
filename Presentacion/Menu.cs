@@ -29,6 +29,21 @@ namespace Presentacion
         private void Menu_Load(object sender, EventArgs e)
         {
             DatosUsuarios();
+            //privilegios de Usuarios//
+            if(cache_login.Cargo==Cargos.secretaria){
+                btnReportes.Enabled = false;
+                btnBalances.Enabled = false;
+            }
+            if(cache_login.Cargo==Cargos.cagero){
+                btnAsistencia.Enabled = false;
+            }
+            if (cache_login.Cargo == Cargos.admin){
+                btnReportes.Enabled = true;
+                btnBalances.Enabled = true;
+                btnAsistencia.Enabled = true;
+                btnREmpleados.Enabled = true;
+            }
+
         }
         private void DatosUsuarios()
         {

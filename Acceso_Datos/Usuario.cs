@@ -33,6 +33,7 @@ namespace Acceso_Datos
                             cache_login.Nombre = reader.GetString(3);
                             cache_login.Apellido = reader.GetString(4);
                             cache_login.correo = reader.GetString(5);
+                            cache_login.Cargo = reader.GetString(6);
                         }
                         
                         return true;
@@ -42,6 +43,18 @@ namespace Acceso_Datos
                         return false;
                     }
                 }
+            }
+            
+        }
+        public void PrivilegiosUsuarios()
+        {
+            if (cache_login.Cargo==Cargos.admin)
+            {
+                //code
+            }
+            if (cache_login.Cargo == Cargos.secretaria || cache_login.Cargo == Cargos.cagero)
+            {
+                //code
             }
         }
     }

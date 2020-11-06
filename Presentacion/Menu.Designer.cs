@@ -28,20 +28,22 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
             this.btnSalir = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
-            this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.lblNombre = new System.Windows.Forms.Label();
             this.LblApellido = new System.Windows.Forms.Label();
             this.lblCorreo = new System.Windows.Forms.Label();
+            this.btnREmpleados = new System.Windows.Forms.Button();
+            this.btnBalances = new System.Windows.Forms.Button();
+            this.btnAsistencia = new System.Windows.Forms.Button();
+            this.btnReportes = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnSalir
             // 
-            this.btnSalir.Location = new System.Drawing.Point(12, 226);
+            this.btnSalir.Location = new System.Drawing.Point(22, 252);
             this.btnSalir.Name = "btnSalir";
             this.btnSalir.Size = new System.Drawing.Size(107, 23);
             this.btnSalir.TabIndex = 0;
@@ -76,11 +78,6 @@
             this.label3.TabIndex = 3;
             this.label3.Text = "Correo";
             // 
-            // contextMenuStrip1
-            // 
-            this.contextMenuStrip1.Name = "contextMenuStrip1";
-            this.contextMenuStrip1.Size = new System.Drawing.Size(61, 4);
-            // 
             // lblNombre
             // 
             this.lblNombre.AutoSize = true;
@@ -105,11 +102,51 @@
             this.lblCorreo.Size = new System.Drawing.Size(0, 13);
             this.lblCorreo.TabIndex = 7;
             // 
+            // btnREmpleados
+            // 
+            this.btnREmpleados.Location = new System.Drawing.Point(36, 70);
+            this.btnREmpleados.Name = "btnREmpleados";
+            this.btnREmpleados.Size = new System.Drawing.Size(197, 23);
+            this.btnREmpleados.TabIndex = 8;
+            this.btnREmpleados.Text = "Registros de Empleados";
+            this.btnREmpleados.UseVisualStyleBackColor = true;
+            // 
+            // btnBalances
+            // 
+            this.btnBalances.Location = new System.Drawing.Point(36, 111);
+            this.btnBalances.Name = "btnBalances";
+            this.btnBalances.Size = new System.Drawing.Size(197, 23);
+            this.btnBalances.TabIndex = 9;
+            this.btnBalances.Text = "Balances";
+            this.btnBalances.UseVisualStyleBackColor = true;
+            // 
+            // btnAsistencia
+            // 
+            this.btnAsistencia.Location = new System.Drawing.Point(36, 153);
+            this.btnAsistencia.Name = "btnAsistencia";
+            this.btnAsistencia.Size = new System.Drawing.Size(197, 23);
+            this.btnAsistencia.TabIndex = 10;
+            this.btnAsistencia.Text = "Asistencia";
+            this.btnAsistencia.UseVisualStyleBackColor = true;
+            // 
+            // btnReportes
+            // 
+            this.btnReportes.Location = new System.Drawing.Point(36, 194);
+            this.btnReportes.Name = "btnReportes";
+            this.btnReportes.Size = new System.Drawing.Size(197, 23);
+            this.btnReportes.TabIndex = 11;
+            this.btnReportes.Text = "Reportes";
+            this.btnReportes.UseVisualStyleBackColor = true;
+            // 
             // Menu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(626, 261);
+            this.ClientSize = new System.Drawing.Size(626, 309);
+            this.Controls.Add(this.btnReportes);
+            this.Controls.Add(this.btnAsistencia);
+            this.Controls.Add(this.btnBalances);
+            this.Controls.Add(this.btnREmpleados);
             this.Controls.Add(this.lblCorreo);
             this.Controls.Add(this.LblApellido);
             this.Controls.Add(this.lblNombre);
@@ -131,9 +168,12 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
         private System.Windows.Forms.Label lblNombre;
         private System.Windows.Forms.Label LblApellido;
         private System.Windows.Forms.Label lblCorreo;
+        private System.Windows.Forms.Button btnREmpleados;
+        private System.Windows.Forms.Button btnBalances;
+        private System.Windows.Forms.Button btnAsistencia;
+        private System.Windows.Forms.Button btnReportes;
     }
 }

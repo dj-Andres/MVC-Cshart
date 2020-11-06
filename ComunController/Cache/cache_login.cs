@@ -13,6 +13,6 @@ namespace ComunController.Cache
         public static string Nombre { get; set; }
         public static string Apellido { get; set; }
         public static string correo { get; set; }
-
+        public static string Cargo { get; set; }
     }
 }
