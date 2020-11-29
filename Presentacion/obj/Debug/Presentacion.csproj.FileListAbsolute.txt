@@ -28,3 +28,4 @@ C:\Users\hp\Desktop\IST-JOL\SEXTO_CICLO\PUNTO_NET\seguno_parcial\SQL_CShart\Pres
 C:\Users\hp\Desktop\IST-JOL\SEXTO_CICLO\PUNTO_NET\seguno_parcial\SQL_CShart\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
 C:\Users\hp\Desktop\IST-JOL\SEXTO_CICLO\PUNTO_NET\seguno_parcial\SQL_CShart\Presentacion\bin\Debug\ComunController.dll
 C:\Users\hp\Desktop\IST-JOL\SEXTO_CICLO\PUNTO_NET\seguno_parcial\SQL_CShart\Presentacion\bin\Debug\ComunController.pdb
+C:\Users\hp\Desktop\IST-JOL\SEXTO_CICLO\PUNTO_NET\seguno_parcial\SQL_CShart\Presentacion\obj\Debug\Presentacion.recuperar_clave.resources

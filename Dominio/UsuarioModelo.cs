@@ -15,6 +15,10 @@ namespace Dominio
         {
             return Usuario.Login(user,pass);  
         }
+        public string recuperar_contrasena(string usuarioRequest)
+        {
+            return Usuario.recuperar_clave(usuarioRequest);
+        }
         //public bool editarClave(int user,string pass){
           //  if (user == cache_login.Id_usuario)
            // {

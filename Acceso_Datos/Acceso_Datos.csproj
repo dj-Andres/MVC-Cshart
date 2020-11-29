@@ -39,9 +39,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ConnecionSql.cs" />
+    <Compile Include="ServicesEmails\ServerEmails.cs" />
+    <Compile Include="ServicesEmails\SystemEmail.cs" />
+    <Compile Include="SqlServer\ConnecionSql.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Usuario.cs" />
+    <Compile Include="SqlServer\Usuario.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ComunController\ComunController.csproj">
